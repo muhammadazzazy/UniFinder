@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">UniFinder</string>
+    <string-array name="countries">
+        <item>Afghanistan</item>
+        <item>Albania</item>
+        <item>Andorra</item>
+        <item>Antigua and Barbuda</item>
+        <item>Armenia</item>
+        <item>Azerbaijan</item>
+        <item>Bahamas</item>
+        <item>Bahrain</item>
+    </string-array>
+    <string name="visit">Visit</string>
+    <string name="ok">OK</string>
+</resources>
